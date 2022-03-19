@@ -1,0 +1,13 @@
+body{
+    font-family: 'Niramit', sans-serif;
+}
+#info-page,
+#banner-top {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.h-300{
+    height: 350px;
+}
